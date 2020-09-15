@@ -131,3 +131,4 @@ dmypy.json
 # CSV Files and text files
 .csv
 .txt
+/data
